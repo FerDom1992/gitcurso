@@ -1,0 +1,9 @@
+git init: Inicializa el repositorio
+
+git config --global user.email "youremail@example.com": Obligatorio poner tu email
+git config --global user.name "Your Name": Obligatorio poner tu nombre
+
+git status: muestra el estado de los archivos
+git add nombre_archivo: Agrega solo este archivo
+git add . : Agrega todos los archivos 
+git commit
